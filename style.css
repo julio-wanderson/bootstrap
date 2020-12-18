@@ -1,0 +1,28 @@
+h1{
+    color: cadetblue;
+    text-align: center;
+    margin: 50px;
+    font: 45px sans-serif;    
+}
+
+body{
+    background-color: rgb(231, 221, 238);
+}
+
+#senha{
+float: left;
+
+}
+#formulario{
+width: 800px; 
+margin-right: auto;
+margin-left: auto;
+color: rgb(1, 1, 8);
+font: 20px sans-serif;  
+}
+
+label {
+    display: inline-block;                        
+    text-align: right;  
+    padding-bottom:  8px;
+}
